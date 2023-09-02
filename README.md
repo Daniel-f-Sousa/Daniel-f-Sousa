@@ -6,15 +6,31 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/danielfspiloto?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==)&nbsp;
 [![Hotmail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://outlook.live.com/mail)&nbsp;
 [![Spotfy](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2xV69xYA6bGX0gDKERDmup)&nbsp;
----
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel-f-Sousa&show_icons=true&theme=blue-green)
+---------
+<table width="180px" height="180px" align=left>
+🧑🏼‍💻 <i>Atualmente trabalho com infraestrutura de TI.</i> <br>
+💻 <i>Migrando Carreira para Dev. </i> <br>
+📖 <i>Cursando: </i><br>
+🌩️ <i>Especialização em Cloud Computing</i> <br>
 
-- 🧑🏼‍💻 *Atualmente trabalho com infraestrutura de TI.*
-- 📖 *Cursando:*
-- 🌩️💻 *Especialização em Cloud Computing*
-- <img src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/BootCamp-Mobile.png" width="18" height="18" /> *Santander Bootcamp 2023 - Mobile com Flutter
+<img src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/BootCamp-Mobile.png" width="17" height="17"/><i>..Santander Bootcamp 2023 - Mobile com Flutter.</i>
+<br>
+</table>
 
-### My Skills
+<table width="300em" height="300em" align=right>
+<th align="right" border="0">
+<img src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/giff-1-unscreen.gif" height="180" align=right/>
+</th>
+</table>
+
+<div>
+<a href="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa">
+<img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=Daniel-f-Sousa&show_icons=true&theme=highcontrast">
+<img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-f-Sousa&size_weight=0.5&count_weight=0.5&theme=highcontrast">   
+</div> <br>
+
+----
+#### My Skills
 
 ###### Main Stack:
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
@@ -25,7 +41,8 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)&nbsp;
 
-###### Conhecimentos S.O & Ferramentas
+##### Habilidades Gerais:
+###### S.O
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
@@ -37,11 +54,13 @@
 ![Windowsxp](https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white)&nbsp;
 ![Windows11](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)&nbsp;
 
+###### Pacote Office:
 ![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)&nbsp;
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)&nbsp;
 ![Powerpoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)&nbsp;
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white)&nbsp;
 
+###### Ferramentas
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 ![TodoIst](https://img.shields.io/badge/Todoist-E44332?style=for-the-badge&logo=todoist&logoColor=white)&nbsp;
 ![Googlesheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)&nbsp;
@@ -62,4 +81,4 @@
 ![CMD](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)&nbsp;
 ![GnuBash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)&nbsp;
 ---
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=808080&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=120&section=footer"/>
