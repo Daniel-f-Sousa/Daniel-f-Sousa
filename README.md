@@ -1,37 +1,52 @@
 ### Hi There! - Bem Vindo (a) ao Meu Perfil !
 ![](https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Banner%202.png)
+<div align="center">
+  <a href="https://www.linkedin.com/in/daniel-f-sousa/">
+    <img heigth="30px" width="30px" hspace="10" src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/LinkedIn.png" ></a>
+  
+  <a href="https://instagram.com/danielfspiloto?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==">
+    <img heigth="30px" width="30px" hspace="10" src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Instagram.png"></a> 
+  
+  <a href="https://www.facebook.com/daniel.defreitassousa?mibextid=ZbWKwL">
+    <img heigth="30px" width="30px" hspace="10" src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Facebook.png"></a>
 
-[![Linkdein](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-f-sousa/)&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/danielfspiloto?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==)&nbsp;
-[![Hotmail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://outlook.live.com/mail)&nbsp;
-[![Spotfy](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2xV69xYA6bGX0gDKERDmup)&nbsp;
----------
-<table width="180px" height="180px" align=left>
-🧑🏼‍💻 <i>Atualmente trabalho com infraestrutura de TI.</i> <br>
+  <a href="https://twitter.com/danielfspiloto/"> 
+    <img heigth="30px" width="30px" hspace="10" src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Twitter.png"></a>    
+ 
+  <a href="https://mail.google.com/mail/u/0/#inbox">  
+    <img heigth="30px" width="30px" hspace="10" src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Tiktok.png"></a> 
+
+  <a href="https://www.youtube.com/">  
+    <img heigth="30px" width="30px" hspace="10" src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Youtube.png"></a>  
+
+  <a href="https://mail.google.com/mail/u/0/#inbox">  
+    <img heigth="30px" width="30px" hspace="10" src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/E-mail%201.png"></a> 
+  
+  <a href="https://open.spotify.com/playlist/2xV69xYA6bGX0gDKERDmup"> 
+    <img heigth="30px" width="30px" hspace="10" src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Icon%20spotfy%201.png"></a>
+</div>  
+
+<!-- ![image](https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/assets/142462630/71255c00-37eb-4c8c-80aa-067083e48ccd) -->
+<div>
+<img src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/giff-1-unscreen.gif"  width="180" height="180" align="right"/><br>
+  
+🧑🏼‍💻 <text align="left"><i>Atualmente trabalho com infraestrutura de TI.</i><br>
 💻 <i>Migrando Carreira para Dev. </i> <br>
 📖 <i>Cursando: </i><br>
-🌩️ <i>Especialização em Cloud Computing</i> <br>
-
-<img src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/BootCamp-Mobile.png" width="17" height="17"/><i>..Santander Bootcamp 2023 - Mobile com Flutter.</i>
+🌩️ <i>Especialização em Cloud Computing</i></text> <br>
+<img src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/BootCamp-Mobile.png" width="17" height="17"/><i>. .Santander Bootcamp 2023 - Mobile com Flutter.</i>
 <br>
-</table>
+</div>  
 
-<table width="300em" height="300em" align=right>
-<th align="right" border="0">
-<img src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/giff-1-unscreen.gif" height="180" align=right/>
-</th>
-</table>
-
+![image](https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/assets/142462630/71255c00-37eb-4c8c-80aa-067083e48ccd)
 <div>
 <a href="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa">
-<img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=Daniel-f-Sousa&show_icons=true&theme=highcontrast">
-<img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-f-Sousa&size_weight=0.5&count_weight=0.5&theme=highcontrast">   
-</div> <br>
-
-----
+<img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=Daniel-f-Sousa&show_icons=true&theme=shadow_green">
+<img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-f-Sousa&size_weight=0.5&count_weight=0.5&theme=shadow_green">   
+</div>  
+  
+![image](https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/assets/142462630/71255c00-37eb-4c8c-80aa-067083e48ccd)
 #### My Skills
-
 ###### Main Stack:
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
@@ -81,4 +96,4 @@
 ![CMD](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)&nbsp;
 ![GnuBash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)&nbsp;
 ---
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1C1C1C&height=120&section=footer"/>
