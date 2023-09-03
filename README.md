@@ -36,13 +36,13 @@
 🌩️ <i>Especialização em Cloud Computing</i></text> <br>
 <img src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/BootCamp-Mobile.png" width="17" height="17"/><i>. .Santander Bootcamp 2023 - Mobile com Flutter.</i>
 <br>
-</div>  
+</div>  <br>
 
-![image](https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/assets/142462630/71255c00-37eb-4c8c-80aa-067083e48ccd)
+<!-- ![image](https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/assets/142462630/71255c00-37eb-4c8c-80aa-067083e48ccd) -->
 <div>
 <a href="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa">
-<img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=Daniel-f-Sousa&show_icons=true&theme=shadow_green">
-<img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-f-Sousa&size_weight=0.5&count_weight=0.5&theme=shadow_green">   
+<img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=Daniel-f-Sousa&show_icons=true&theme=shadow_red">
+<img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-f-Sousa&size_weight=0.5&count_weight=0.5&theme=shadow_red">   
 </div>  
   
 ![image](https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/assets/142462630/71255c00-37eb-4c8c-80aa-067083e48ccd)
@@ -96,4 +96,4 @@
 ![CMD](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)&nbsp;
 ![GnuBash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)&nbsp;
 ---
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1C1C1C&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=120&section=footer"/>
