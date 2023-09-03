@@ -54,9 +54,9 @@
 <img heigth="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-f-Sousa&size_weight=0.5&count_weight=0.5&theme=shadow_red">  
 </div>  
 
-![Snake animation](https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/output/github-contribution-grid-snake.svg)
-
 ![snake gif](https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/output/github-contribution-grid-snake.svg)
+
+![](https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/output/github-contribution-grid-snake.svg)
 
 ![image](https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/assets/142462630/2b1ade92-f845-4e93-9c15-35cc2eb85b00)
 #### My Skills
