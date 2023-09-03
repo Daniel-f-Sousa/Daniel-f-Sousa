@@ -26,7 +26,6 @@
 </div> 
 
 ## Hi There! - Bem Vindo (a) ao Meu Perfil !  
-
 <div>
 <img src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/giff-1-unscreen.gif"  width="180" height="180" align="right"/><br>
   
@@ -55,9 +54,6 @@
 </div>  
 
 ![snake gif](https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/output/github-contribution-grid-snake.svg)
-
-![](https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/output/github-contribution-grid-snake.svg)
-
 ![image](https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/assets/142462630/2b1ade92-f845-4e93-9c15-35cc2eb85b00)
 #### My Skills
 ###### S.O & Ferramentas
