@@ -28,15 +28,15 @@
     <img heigth="30px" width="30px" hspace="10" src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Icon%20spotfy%201.png"></a>
 </div> 
 
-## Hi There! - Bem Vindo (a) ao Meu Perfil !  
+## Hi There! - Bem Vindo (a)!  
 <div>
-<img src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/giff-1-unscreen.gif"  width="180" height="180" align="right"/><br>
+<img src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Giff-3-unscreen.gif"  width="180" height="180" align="right"/><br>
   
 🧑🏼‍💻 <text align="left"><i>Atualmente trabalho com infraestrutura de TI.</i><br>
 💻 <i>Migrando Carreira para Dev. </i> <br>
 📖 <i>Cursando: </i><br>
 🌩️ <i>Especialização em Cloud Computing</i></text> <br>
-<img src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/BootCamp-Mobile.png" width="17" height="17"/><i>. .Santander Bootcamp 2023 - Mobile com Flutter.</i>
+<img src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/BootCamp.webp" width="17" height="17"/><i>. .Santander Bootcamp 2023 - Mobile com Flutter.</i>
 <br>
 </div>
 
