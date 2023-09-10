@@ -1,4 +1,7 @@
-![](https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Banner%202.png)
+<div>
+  <a href="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa">
+    <img src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Banner%202.png"></a>
+</div>
 <div align="center">
   <a href="https://www.linkedin.com/in/daniel-f-sousa/">
     <img heigth="30px" width="30px" hspace="10" src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/LinkedIn.png" ></a>
