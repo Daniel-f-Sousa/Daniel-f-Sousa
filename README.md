@@ -1,7 +1,36 @@
 <div>
   <a href="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa">
-    <img src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Banner%202.png"/></a>
-</div>
+    <img src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Banner%202.png"></a>
+    <img width="3%" hspace="5" src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Ritico%20Cardiaco%202.gif"/>
+    <img width="3%" src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Ritico%20Cardiaco%202.gif"/>
+    <img width="3%" src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Ritico%20Cardiaco%202.gif"/>
+    <img width="3%" src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Ritico%20Cardiaco%202.gif"/>
+    <img width="3%" src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Ritico%20Cardiaco%202.gif"/>
+    <img width="3%" src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Ritico%20Cardiaco%202.gif"/>
+    <img width="3%" src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Ritico%20Cardiaco%202.gif"/>
+    <img width="3%" src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Ritico%20Cardiaco%202.gif"/>
+    <img width="3%" src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Ritico%20Cardiaco%202.gif"/>
+    <img width="3%" src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Ritico%20Cardiaco%202.gif"/>
+    <img width="3%" src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Ritico%20Cardiaco%202.gif"/>
+    <img width="3%" src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Ritico%20Cardiaco%202.gif"/>
+    <img width="3%" src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Ritico%20Cardiaco%202.gif"/>
+    <img width="3%" src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Ritico%20Cardiaco%202.gif"/>
+    <img width="3%" src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Ritico%20Cardiaco%202.gif"/>
+    <img width="3%" src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Ritico%20Cardiaco%202.gif"/>
+    <img width="3%" src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Ritico%20Cardiaco%202.gif"/>
+    <img width="3%" src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Ritico%20Cardiaco%202.gif"/>
+    <img width="3%" src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Ritico%20Cardiaco%202.gif"/>
+    <img width="3%" src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Ritico%20Cardiaco%202.gif"/>
+    <img width="3%" src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Ritico%20Cardiaco%202.gif"/>
+    <img width="3%" src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Ritico%20Cardiaco%202.gif"/>
+    <img width="3%" src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Ritico%20Cardiaco%202.gif"/>
+    <img width="3%" src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Ritico%20Cardiaco%202.gif"/>
+    <img width="3%" src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Ritico%20Cardiaco%202.gif"/>
+    <img width="3%" src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Ritico%20Cardiaco%202.gif"/>
+    <img width="3%" src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Ritico%20Cardiaco%202.gif"/>
+    <img width="3%" src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Ritico%20Cardiaco%202.gif"/>
+    <img width="3%" src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Ritico%20Cardiaco%202.gif"/>
+  </div>
 <div align="center">
   <a href="https://www.linkedin.com/in/daniel-f-sousa/">
     <img heigth="30px" width="30px" hspace="10" src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/LinkedIn.png"/></a>
