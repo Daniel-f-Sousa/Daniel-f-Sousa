@@ -1,31 +1,31 @@
 <div>
   <a href="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa">
-    <img src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Banner%202.png"></a>
+    <img src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Banner%202.png"/></a>
 </div>
 <div align="center">
   <a href="https://www.linkedin.com/in/daniel-f-sousa/">
-    <img heigth="30px" width="30px" hspace="10" src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/LinkedIn.png" ></a>
+    <img heigth="30px" width="30px" hspace="10" src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/LinkedIn.png"/></a>
   
   <a href="https://instagram.com/danielfspiloto?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==">
-    <img heigth="30px" width="30px" hspace="10" src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Instagram.png"></a> 
+    <img heigth="30px" width="30px" hspace="10" src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Instagram.png"/></a> 
   
   <a href="https://www.facebook.com/daniel.defreitassousa?mibextid=ZbWKwL">
-    <img heigth="30px" width="30px" hspace="10" src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Facebook.png"></a>
+    <img heigth="30px" width="30px" hspace="10" src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Facebook.png"/></a>
 
   <a href="https://twitter.com/danielfspiloto/"> 
-    <img heigth="30px" width="30px" hspace="10" src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Twitter.png"></a>    
+    <img heigth="30px" width="30px" hspace="10" src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Twitter.png"/></a>    
  
   <a href="https://mail.google.com/mail/u/0/#inbox">  
-    <img heigth="30px" width="30px" hspace="10" src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Tiktok.png"></a> 
+    <img heigth="30px" width="30px" hspace="10" src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Tiktok.png"/></a> 
 
   <a href="https://www.youtube.com/">  
-    <img heigth="30px" width="30px" hspace="10" src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Youtube.png"></a>  
+    <img heigth="30px" width="30px" hspace="10" src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Youtube.png"/></a>  
 
   <a href="https://mail.google.com/mail/u/0/#inbox">  
-    <img heigth="30px" width="30px" hspace="10" src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/E-mail%201.png"></a> 
+    <img heigth="30px" width="30px" hspace="10" src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/E-mail%201.png"/></a> 
   
   <a href="https://open.spotify.com/playlist/2xV69xYA6bGX0gDKERDmup"> 
-    <img heigth="30px" width="30px" hspace="10" src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Icon%20spotfy%201.png"></a>
+    <img heigth="30px" width="30px" hspace="10" src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Icon%20spotfy%201.png"/></a>
 </div> 
 
 ## Hi There! - Bem Vindo (a)!  
@@ -52,7 +52,7 @@
 <div>
 <a href="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa">
 <img heigth="120em" src="https://github-readme-stats.vercel.app/api?username=Daniel-f-Sousa&show_icons=true&theme=shadow_red">
-<img heigth="120em" src="https://github-readme-streak-stats.herokuapp.com?user=Daniel-f-Sousa&theme=shadow_red&hide_border=falso">
+<img heigth="120em" src="https://github-readme-streak-stats.herokuapp.com?user=Daniel-f-Sousa&hide_border=falso&theme=shadow_red">
 <img heigth="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-f-Sousa&size_weight=0.5&count_weight=0.5&theme=shadow_red">
 <img src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/computer-illustration.png"  width="180" height="180" align="right">
 </div>  
@@ -87,4 +87,4 @@
 <!-- ![KaliLinux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)&nbsp; -->
 <!-- ![VirtualBox](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)&nbsp; -->
 <!-- ![Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)&nbsp; -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=footer"/>
