@@ -28,7 +28,8 @@
     <img heigth="30px" width="30px" hspace="10" src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Icon%20spotfy%201.png"/></a>
 </div> 
 
-## Hi There! - Bem Vindo (a)!  
+## Hi There! - Bem Vindo!  
+
 <div>
 <img src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Giff-3-unscreen.gif"  width="180" height="180" align="right"/><br>
   
@@ -48,7 +49,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)&nbsp;
-<!-- ![image](https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/assets/142462630/2b1ade92-f845-4e93-9c15-35cc2eb85b00) -->
+
 <div>
 <a href="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa">
 <img heigth="120em" src="https://github-readme-stats.vercel.app/api?username=Daniel-f-Sousa&show_icons=true&theme=shadow_red">
@@ -57,7 +58,7 @@
 <img src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/computer-illustration.png"  width="180" height="180" align="right">
 </div>  
 
-![snake gif](https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/output/github-contribution-grid-snake.svg)
+<!-- ![snake gif](https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/output/github-contribution-grid-snake.svg) -->
 ![image](https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/assets/142462630/2b1ade92-f845-4e93-9c15-35cc2eb85b00)
 #### My Skills
 ###### S.O & Ferramentas
@@ -77,11 +78,11 @@
 ![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9)&nbsp;
 ![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=fff)&nbsp;
 ![Vscode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
-![Sharepoint](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)&nbsp;
-![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)&nbsp;
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)&nbsp;
-![Powerpoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)&nbsp;
-![LibreOffice](https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white)&nbsp;
+<!--![Sharepoint](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)&nbsp;
+<!-- ![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)&nbsp;
+<!-- ![Powerpoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)&nbsp;
+<!-- ![LibreOffice](https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white)&nbsp;
 <!-- ![Powershell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)&nbsp;
 <!-- ![GnuBash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)&nbsp;-->
 <!-- ![KaliLinux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)&nbsp; -->
