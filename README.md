@@ -43,9 +43,9 @@
 
 <div>
 <a href="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa">
-<img heigth="120em" src="https://github-readme-stats.vercel.app/api?username=Daniel-f-Sousa&show_icons=true&theme=shadow_red">
-<img heigth="120em" src="https://github-readme-streak-stats.herokuapp.com?user=Daniel-f-Sousa&hide_border=falso&theme=shadow_red">
-<img heigth="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-f-Sousa&size_weight=0.5&count_weight=0.5&theme=shadow_red">
+<img heigth="120em" width="42%" src="https://github-readme-stats.vercel.app/api?username=Daniel-f-Sousa&show_icons=true&theme=shadow_red">
+<img heigth="120em" width="44.5%" src="https://github-readme-streak-stats.herokuapp.com?user=Daniel-f-Sousa&hide_border=falso&theme=shadow_red">
+<img heigth="120em" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-f-Sousa&size_weight=0.5&count_weight=0.5&theme=shadow_red">
 <img src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/computer-illustration.png"  width="180" height="180" align="right">
 </div>  
 
