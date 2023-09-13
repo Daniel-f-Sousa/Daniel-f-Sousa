@@ -30,7 +30,7 @@
 🌩️ <i>Especialização em Cloud Computing</i></text> <br>
 <img src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/BootCamp.webp" width="17" height="17"/><i>. .Santander Bootcamp 2023 - Mobile com Flutter.</i>
 <br>
-</div>
+</div>  
 
 ##### Main Stack:
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
