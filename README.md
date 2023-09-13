@@ -5,34 +5,25 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/daniel-f-sousa/">
     <img heigth="30px" width="30px" hspace="10" src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/LinkedIn.png"/></a>
-  
   <a href="https://instagram.com/danielfspiloto?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==">
     <img heigth="30px" width="30px" hspace="10" src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Instagram.png"/></a> 
-  
   <a href="https://www.facebook.com/daniel.defreitassousa?mibextid=ZbWKwL">
     <img heigth="30px" width="30px" hspace="10" src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Facebook.png"/></a>
-
   <a href="https://twitter.com/danielfspiloto/"> 
-    <img heigth="30px" width="30px" hspace="10" src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Twitter.png"/></a>    
- 
+    <img heigth="30px" width="30px" hspace="10" src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Twitter.png"/></a>
   <a href="https://mail.google.com/mail/u/0/#inbox">  
     <img heigth="30px" width="30px" hspace="10" src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Tiktok.png"/></a> 
-
   <a href="https://www.youtube.com/">  
     <img heigth="30px" width="30px" hspace="10" src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Youtube.png"/></a>  
-
   <a href="https://mail.google.com/mail/u/0/#inbox">  
     <img heigth="30px" width="30px" hspace="10" src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/E-mail%201.png"/></a> 
-  
   <a href="https://open.spotify.com/playlist/2xV69xYA6bGX0gDKERDmup"> 
     <img heigth="30px" width="30px" hspace="10" src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Icon%20spotfy%201.png"/></a>
 </div> 
 
-## Hi There! - Bem Vindo!  
-
+## Hi There! - Bem Vindo!
 <div>
 <img src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Giff-3-unscreen.gif"  width="180" height="180" align="right"/><br>
-  
 🧑🏼‍💻 <text align="left"><i>Atualmente trabalho com infraestrutura de TI.</i><br>
 💻 <i>Migrando Carreira para Dev. </i> <br>
 📖 <i>Cursando: </i><br>
