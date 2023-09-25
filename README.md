@@ -1,7 +1,8 @@
 <div>
   <a href="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa">
     <img src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Banner%202.png"></a>
-    <img width="3%" hspace="15" src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Ritico%20Cardiaco%202.gif"/>
+    <img width="3%" hspace="5" src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Ritico%20Cardiaco%202.gif"/>
+    <img width="3%" src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Ritico%20Cardiaco%202.gif"/>
     <img width="3%" src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Ritico%20Cardiaco%202.gif"/>
     <img width="3%" src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Ritico%20Cardiaco%202.gif"/>
     <img width="3%" src="https://github.com/Daniel-f-Sousa/Daniel-f-Sousa/blob/main/Ritico%20Cardiaco%202.gif"/>
